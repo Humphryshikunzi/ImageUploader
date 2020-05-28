@@ -1,0 +1,2 @@
+https://lalorosas.com/blog/azure-storage-service-uploading-an-image-from-xamarin-forms
+https://lalorosas.com/blog/xamarin-forms-selecting-image-from-the-gallery
